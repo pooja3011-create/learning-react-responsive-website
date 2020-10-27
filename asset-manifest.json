@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-responsive-website/static/css/main.0e012e29.chunk.css",
+    "main.js": "/react-responsive-website/static/js/main.ec14eb0f.chunk.js",
+    "main.js.map": "/react-responsive-website/static/js/main.ec14eb0f.chunk.js.map",
+    "runtime-main.js": "/react-responsive-website/static/js/runtime-main.5225b9e0.js",
+    "runtime-main.js.map": "/react-responsive-website/static/js/runtime-main.5225b9e0.js.map",
+    "static/js/2.21695ef4.chunk.js": "/react-responsive-website/static/js/2.21695ef4.chunk.js",
+    "static/js/2.21695ef4.chunk.js.map": "/react-responsive-website/static/js/2.21695ef4.chunk.js.map",
+    "index.html": "/react-responsive-website/index.html",
+    "precache-manifest.61e761c169391b8a283abdd0f2f12f10.js": "/react-responsive-website/precache-manifest.61e761c169391b8a283abdd0f2f12f10.js",
+    "service-worker.js": "/react-responsive-website/service-worker.js",
+    "static/css/main.0e012e29.chunk.css.map": "/react-responsive-website/static/css/main.0e012e29.chunk.css.map",
+    "static/js/2.21695ef4.chunk.js.LICENSE.txt": "/react-responsive-website/static/js/2.21695ef4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5225b9e0.js",
+    "static/js/2.21695ef4.chunk.js",
+    "static/css/main.0e012e29.chunk.css",
+    "static/js/main.ec14eb0f.chunk.js"
+  ]
+}
